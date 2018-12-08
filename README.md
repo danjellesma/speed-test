@@ -1,4 +1,4 @@
-# speet-test
+# speed-test
 A simple network speed-test in a Docker image
 
 ## Basic Functionality
@@ -17,7 +17,7 @@ Output:
      Upload   38 Mbps
 ```
 
-[![Preview](./speed-test.png)]
+[![Preview](http://i68.tinypic.com/14o7fnm.png)]
 
 ## Tips
 
